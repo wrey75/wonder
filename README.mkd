@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/wocommunity/wonder.svg?branch=master)](https://travis-ci.org/wocommunity/wonder)
+[![Known Vulnerabilities](https://snyk.io/test/github/wrey75/wonder/badge.svg)](https://snyk.io/test/github/wrey75/wonder)
 
 About Project Wonder
 --------------------
